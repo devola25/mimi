@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    background-color: black;
+    height: 50px;
+
+}
+
+.left-side{
+    float: left;
+}
+
+.class a{
+    float: right;
+}
+
+
+
+ul{
+    padding: 50px;
+     list-style: none;
+}
+
+.nav li{
+    display: inline;
+    background-color: rgb(70, 61, 61);
+    border: 1px solid black; 
+    border-radius: 2px; width: 90px; 
+    text-align: center; 
+    height: 10px;
+    color: white;
+    
+}
+
+.bars{
+    display: inline;
+    color: rgb(46, 168, 46);
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.sect{
+    margin-left: 10px;
+}
+.dr{
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.list{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
